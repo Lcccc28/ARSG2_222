@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: MainView.png (512 x 1024)
+# $TexturePacker:SmartUpdate:88d610c911629ec013268e147601a0e5:40f7240da2b545725ab4df99b99353f2:002e4a6e3d87bc004f87493319d4b32c$
+#
+
+btn_ar;2;113;256;256;0.5;0.5
+btn_jq;2;371;256;256;0.5;0.5
+btn_start;2;887;282;135;0.5;0.5
+btn_xx;2;629;256;256;0.5;0.5

@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\ShareSDK\ShareSDK.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Scene\MouseLook.cs" Line="24" Column="41" />
+      <File FileName="Assets\Scripts\UI\ModelBView.cs" Line="80" Column="6" />
+      <File FileName="Assets\Scripts\Scene\Bullet.cs" Line="30" Column="39" />
+      <File FileName="Assets\Scripts\Manager\GamePoolManager.cs" Line="25" Column="61" />
+      <File FileName="Assets\Plugins\PathologicalGames\PoolManager\SpawnPool.cs" Line="45" Column="5" />
+      <File FileName="Assets\Plugins\PathologicalGames\PoolManager\PoolManager.cs" Line="280" Column="10" />
+      <File FileName="Assets\Scripts\Scene\SceneA.cs" Line="222" Column="52" />
+      <File FileName="Assets\Scripts\Scene\HPBar.cs" Line="52" Column="3" />
+      <File FileName="Assets\Plugins\ShareSDK\ShareSDK.cs" Line="143" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: CountDownView.png (512 x 512)
+# $TexturePacker:SmartUpdate:355061510ff09292fdaffd6a82aea5b2:8fe633e171f30ab0c515c0d19833dd67:498092cc68bbc8ec0546c1cf3962ed36$
+#
+
+1;2;122;128;128;0.5;0.5
+2;2;252;128;128;0.5;0.5
+3;260;382;128;128;0.5;0.5
+GO;2;382;256;128;0.5;0.5

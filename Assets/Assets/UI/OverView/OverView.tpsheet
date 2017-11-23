@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: OverView.png (512 x 512)
+# $TexturePacker:SmartUpdate:29e6cae86e31d6f8785004a4831ede41:0b2655385f9725a5e70a8e6d21eeb69c:07a6e125d66d01d9b7b22100dbc346ec$
+#
+
+bg;2;350;477;160;0.5;0.5
+btn_over;200;255;196;93;0.5;0.5
+btn_restart;2;255;196;93;0.5;0.5

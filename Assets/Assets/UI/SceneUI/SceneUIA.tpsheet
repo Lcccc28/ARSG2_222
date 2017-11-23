@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: SceneUI.png (128 x 64)
+# $TexturePacker:SmartUpdate:a35ba7dd4bf8e11619ff45064065205d:9dcd60d67e1823c64e4ca4b0665600c8:eccb8a075da4ae352039fc9322368427$
+#
+
+hp_bar;2;30;100;14;0.5;0.5
+hp_bar_bg;2;46;100;16;0.5;0.5
